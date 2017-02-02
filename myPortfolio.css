@@ -1,0 +1,96 @@
+.block{
+  background-color:black;
+  opacity: .8;
+  padding:10px;
+  width:50%;
+  margin-right:auto;
+  margin-left: auto;
+  border-radius:10px;
+  margin-top: auto;
+
+
+}
+
+.nav-pills{
+  font-family:Lobster;
+  font-size:1.7em;
+  background-color:black;
+  text color::white;
+
+
+}
+
+body{
+  background-color:white;
+  font-family:grey;
+  color:white;
+}
+h1{
+  padding:0;
+  margin-top: 0px;
+  font-size:5.0em;
+  padding-top:0%;
+}
+
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:white;
+  font-size:1.7em;
+
+
+
+
+}
+
+.pageOne{
+  background:url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/10/cool-3d-background-wallpapers-hd-10.jpeg");
+  background-size:cover;
+  margin-top: -10%;
+  padding-bottom:10%;
+}
+
+.pageTwo{
+
+
+  background:url("http://www.intrawallpaper.com/static/images/maxresdefault_jKFJl8g.jpg");
+  background-size:cover;
+  height:500px;
+  padding-top:5%;
+}
+p{
+  font-size:2.2em;
+
+
+}
+
+.pageThree{
+  background:url(
+    "http://www.intrawallpaper.com/static/images/cool-wooden-wall-cool-twitter-backgrounds.jpg"
+    );
+    background-size: cover;
+    padding-top:5%;
+    padding-bottom: 5%;
+}
+
+.pageFour{
+  background:url(
+    "http://www.intrawallpaper.com/static/images/light_blaze_hd_1080p-HD_yUd1nUm.jpg"
+    );
+    background-size:1200px;
+    height:800px;
+    padding-top: 5%;
+}
+
+p{
+  font-size: 2.2em;
+}.pItems {
+  height:250px;
+}
+
+.paddingBTN{
+  padding-top: 25%;
+  padding-bottom: 25%;
+  width: 200px;
+  margin-bottom: 25px;
+}
